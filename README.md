@@ -7,6 +7,7 @@ Este é um aplicativo  **Guia Motéis** desenvolvido em **Flutter**, utilizando 
 ### 🔹 Screenshot
 <p align="left">
    <img src = "/assets/screenshot/home_guia_motel.png" alt="Home do App" width = "200" />
+   <img src = "/assets/screenshot/home_guia_motel_2.png" alt="Home do App" width = "200" />
 </p>
 
 
