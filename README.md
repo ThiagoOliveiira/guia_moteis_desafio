@@ -1,4 +1,4 @@
-# 📌 Guia Moteis - Desafio vaga
+# 📌 Guia Motéis - Desafio vaga
 
 ## 📖 Sobre o Projeto
 Este é um aplicativo  **Guia Motéis** desenvolvido em **Flutter**, utilizando a arquitetura **MVVM + Clean Architecture** para garantir organização, escalabilidade e separação de responsabilidades.
@@ -6,7 +6,7 @@ Este é um aplicativo  **Guia Motéis** desenvolvido em **Flutter**, utilizando 
 
 ### 🔹 Screenshot
 <p align="left">
-   <img src = "lib/assets/screenshot/home_guia_motel.png" alt="Home do App" width = "200" />
+   <img src = "/assets/screenshot/home_guia_motel.png" alt="Home do App" width = "200" />
 </p>
 
 
