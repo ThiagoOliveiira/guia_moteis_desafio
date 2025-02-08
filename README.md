@@ -22,7 +22,7 @@ Antes de executar o projeto, certifique-se de ter:
 ### 🔹 Passos para rodar
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/ThiagoOliveiira/taski.git
+   git clone https://github.com/ThiagoOliveiira/guia_moteis_desafio.git
    cd guia_moteis
    ```
 2. Instale as dependências:
