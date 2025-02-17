@@ -4,7 +4,10 @@
 Este é um aplicativo  **Guia Motéis** desenvolvido em **Flutter**, utilizando a arquitetura **MVVM + Clean Architecture** para garantir organização, escalabilidade e separação de responsabilidades.
 
 
-### 🔹 Screenshot
+### 🔹 Screenshot e video de demonstração
+
+https://github.com/user-attachments/assets/9ce5dc39-8b20-4d85-b805-125fd6a4239f
+
 <p align="left">
    <img src = "/assets/screenshot/home_guia_motel.png" alt="Home do App" width = "200" />
    <img src = "/assets/screenshot/home_guia_motel_2.png" alt="Home do App" width = "200" />
